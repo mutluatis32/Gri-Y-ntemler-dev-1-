@@ -1,0 +1,12 @@
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\bin\Debug\Mucahıt Mutlu Atis Ödev-1.exe.config
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\bin\Debug\Mucahıt Mutlu Atis Ödev-1.exe
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\bin\Debug\Mucahıt Mutlu Atis Ödev-1.pdb
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt Mutlu Atis Ödev-1.csprojResolveAssemblyReference.cache
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt_Mutlu_Atis_Ödev_1.Form1.resources
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt_Mutlu_Atis_Ödev_1.Form2.resources
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt_Mutlu_Atis_Ödev_1.Form3.resources
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt_Mutlu_Atis_Ödev_1.Form4.resources
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt_Mutlu_Atis_Ödev_1.Properties.Resources.resources
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt Mutlu Atis Ödev-1.csproj.GenerateResource.Cache
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt Mutlu Atis Ödev-1.exe
+D:\Yedek Masaüstü\Mucahıt Mutlu Atis Ödev-1\Mucahıt Mutlu Atis Ödev-1\obj\Debug\Mucahıt Mutlu Atis Ödev-1.pdb
